@@ -4,7 +4,7 @@ import { StyleSheet, Button, View, SafeAreaView, Text, Alert } from 'react-nativ
 const Separator = () => (
   <View style={styles.separator} />
 );
-
+// Button Nút
 const App = () => (
     <SafeAreaView style={styles.container}>
         <View>
